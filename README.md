@@ -1,2 +1,3 @@
-#README.md
-hello world !
+#第一个程序
+
+print ("hello world !")
